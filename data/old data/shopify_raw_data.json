@@ -1,0 +1,66 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Product/10717553819951",
+            "handle": "orange-snowboard-1",
+            "description": "This is an orange snowboard. It will stand out.",
+            "collections": {
+              "edges": []
+            },
+            "tags": []
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/10717554114863",
+            "handle": "green-snowboard-1",
+            "description": "Super super green snowboard. like the grass.",
+            "collections": {
+              "edges": []
+            },
+            "tags": []
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/10717554409775",
+            "handle": "yellow-snowboard",
+            "description": "Yellow like sunshine. Very beautiful",
+            "collections": {
+              "edges": []
+            },
+            "tags": []
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/10717554442543",
+            "handle": "red-snowboard-4",
+            "description": "Bright red and will bring you a lot of luck.",
+            "collections": {
+              "edges": []
+            },
+            "tags": []
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 42,
+      "actualQueryCost": 8,
+      "throttleStatus": {
+        "maximumAvailable": 2000,
+        "currentlyAvailable": 1992,
+        "restoreRate": 100
+      }
+    }
+  }
+}

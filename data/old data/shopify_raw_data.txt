@@ -1,0 +1,30 @@
+PRODUCT
+id: gid://shopify/Product/10717553819951
+handle: orange-snowboard-1
+collections: none
+tags: none
+description: This is an orange snowboard. It will stand out.
+
+
+PRODUCT
+id: gid://shopify/Product/10717554114863
+handle: green-snowboard-1
+collections: none
+tags: none
+description: Super super green snowboard. like the grass.
+
+
+PRODUCT
+id: gid://shopify/Product/10717554409775
+handle: yellow-snowboard
+collections: none
+tags: none
+description: Yellow like sunshine. Very beautiful
+
+
+PRODUCT
+id: gid://shopify/Product/10717554442543
+handle: red-snowboard-4
+collections: none
+tags: none
+description: Bright red and will bring you a lot of luck.
