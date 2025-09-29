@@ -181,7 +181,7 @@ def normalize(s: str) -> str:
 def remove_filler(s: str) -> str:
     tokens = word_tokenize(s)
     filtered_tokens = [t for t in tokens if t not in stop_words]
-    logger.info(f"remove_filler function: {" ".join(filtered_tokens)}")
+    # logger.info(f"remove_filler function: {" ".join(filtered_tokens)}")
     return " ".join(filtered_tokens)
 
 # Embed the string --> vector that represents the meaning of the string
@@ -499,9 +499,9 @@ class RAGEnrichedAgent(Agent):
 
             # Combine all context parts with clear separation
             full_context = "\n\n".join(context_parts)
-            logger.info(
-                f"Results for query: {query}, full context: {full_context.replace('\n', '\\n')}"
-            )
+            # logger.info(
+            #     f"Results for query: {query}, full context: {full_context.replace('\n', '\\n')}"
+            # )
 
             return full_context
         except Exception as e:
